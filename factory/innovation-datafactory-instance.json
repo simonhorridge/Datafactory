@@ -1,0 +1,9 @@
+{
+	"name": "innovation-datafactory-instance",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e17e347b-70ad-4fd5-a961-b15f10313ab7",
+		"tenantId": "2a15a8b5-49d1-49bc-b63c-c7c8c87bdc57"
+	}
+}
